@@ -1,0 +1,8 @@
+{
+  "name": "Teleexpro  - Smart Admin Panel",
+  "description": "A comprehensive HR Admin Panel featuring role-based access control (CEO, Manager, Employee), payroll management, attendance tracking, and AI-powered announcement generation using Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
